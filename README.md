@@ -1,6 +1,6 @@
 # Video-Processor-Demo
-
-This is a desktop application that was developed for **internal company use**. It demonstrates batch video annotation using YOLOv8/YOLO11 models. The source code for this application was designed to allow easy integration with various models, upon creation of a wrapper that bridges a given model's outputs with the core functionality of the application. Of course there are some limitations with what models can be integrated with the app but so far two different YOLO models have been used successfully. This GUI-based tool allows you to process raw video into frames, with either bounding *boxes* or segmentation masks. It includes a responsive interface, progress tracking, and an output data format that is compatible with the [Label Me](https://github.com/wkentaro/labelme) application. 
+This is a desktop application that was developed for internal company use. It demonstrates batch video annotation using YOLOv8/YOLO11 models. The source code for this application was designed to allow easy integration with various           models, upon creation of a wrapper that bridges a given model's outputs with the core functionality of the application. Of course, there are some limitations with what models can be integrated into the app, but so far two different YOLO     models have been used successfully. This GUI-based tool allows you to process raw video into frames, with either bounding boxes or segmentation masks. It includes a responsive interface, progress tracking, and an output data format          that is compatible with the [Label Me](https://github.com/wkentaro/labelme) application. 
+<br><br>
 NOTE: Examples of source code are not included because the application was developed for internal use only.
 
 ---
